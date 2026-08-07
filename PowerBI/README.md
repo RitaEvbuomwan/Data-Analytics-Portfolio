@@ -1,15 +1,36 @@
 # Power BI Projects
 
-Welcome to my Power BI portfolio.
+## Project 1: Sales Performance Dashboard
 
-This section contains interactive Power BI dashboards created using public datasets to demonstrate my skills in:
+A Power BI dashboard analysing monthly sales and profit performance.
 
+### Dashboard Preview
+
+![Sales Performance Dashboard](Sales%20Performance%20Dashboard%20Screenshot1.png)
+
+### Key Metrics
+- Total Sales: 93K
+- Total Profit: 27K
+- Highest Sales Month: June (19.1K)
+- Sales increased from April to June
+- Profit showed an overall upward trend
+
+### Dashboard Features
+- KPI Cards
+- Monthly Sales Trend
+- Profit Trend
+- Monthly Sales Distribution
+- Sales vs Profit Comparison
+- Key Insights
+
+### Tools & Skills
+- Power BI Desktop
 - Power Query
 - DAX
-- Data Modelling
+- Data Visualisation
 - KPI Reporting
 - Dashboard Design
-- Business Intelligence
-- Data Visualisation
 
-Projects will be added here as they are completed.
+### Project Files
+- `Sales Performance Dashboard.pbix`
+- `Sales Performance Dashboard Screenshot1.png`
